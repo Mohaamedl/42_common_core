@@ -1,6 +1,6 @@
 | Function   | Done | Date Finished |
 |------------|------|----------------|
-| isalpha    | [ ]  |                |
+| isalpha    | [x]  |                |
 | isdigit    | [ ]  |                |
 | isalnum    | [ ]  |                |
 | isascii    | [ ]  |                |
